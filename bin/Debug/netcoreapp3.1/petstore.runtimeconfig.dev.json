@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/mmedic/.dotnet/store/|arch|/|tfm|",
+      "/home/mmedic/.nuget/packages"
+    ]
+  }
+}
